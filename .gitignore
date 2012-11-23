@@ -1,0 +1,7 @@
+*.o
+autom4te.cache
+*.log
+*.status
+epinorme
+*.sublime-*
+test.sh
